@@ -132,4 +132,5 @@ Tag:
   Axios: https://jelaniharris.com/blog/fixing-econnrefused-error-in-rails-and-nextjs-docker-containers/
 
 
+CI test 
   https://playwright.dev/docs/ci-intro
